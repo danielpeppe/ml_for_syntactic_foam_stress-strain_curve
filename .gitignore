@@ -1,0 +1,40 @@
+# ignore all files in the venv directory
+.venv/
+# ignore all log files
+*.log
+# ignore all .pyc files
+__pycache__/
+*.pyc
+# ignore models
+models/
+# ignore results
+results/
+# ignore settings
+.vscode/
+# ignore autogluonmodels
+AutogluonModels/
+# ignore report files
+report_files/
+# matlab files
+*.mat
+*.asv
+# pngs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+# misc files
+*.csv
+*.json
+*.yaml
+*.yml
+*.txt
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt

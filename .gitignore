@@ -27,13 +27,7 @@ report_files/
 *.tiff
 *.ico
 # misc files
-*.csv
-*.json
-*.yaml
-*.yml
 *.pdf
 *.docx
 *.doc
-*.xls
-*.xlsx
 *.ppt
